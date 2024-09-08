@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Keshav N</h1>
 <h3 align="center">A Final year Undergrad Information Science Engineering Student.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav-nc&label=Profile%20views&color=0e75b6&style=flat" alt="keshav-nc" /> </p>
-- 🔭 I’m currently working on **PAC-MAN game**
+- 🔭 I’m currently working on **Front End Projects**
 
 - 🌱 I’m currently learning **MERN Stack**
 
