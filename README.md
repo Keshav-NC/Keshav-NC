@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [-----](-----)
-
 - 💬 Ask me about **C, Java, JavaScript**
 
 - 📫 How to reach me **keshav.nc30@gmail.com**
