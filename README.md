@@ -7,15 +7,13 @@
 <h3 align="center">A Final year Undergrad Information Science Engineering Student.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav-nc&label=Profile%20views&color=0e75b6&style=flat" alt="keshav-nc" /> </p>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently learning and working on NodeJS, MongoDB, Express, and React
 
-- 🌱 I’m currently learning **MERN Stack**
+- 👯 I’m looking to collaborate on Frontend Development and MERN Stack
 
 - 💬 Ask me about **C, Java, JavaScript**
 
 - 📫 How to reach me **keshav.nc30@gmail.com**
-
-- 📄 Know about my experiences [---](---)
 
 - ⚡ Fun fact **"Just like an octopus with 3 hearts and 8 arms, I'm always multitasking and giving my code all the love it needs! 🐙💻"**
 
